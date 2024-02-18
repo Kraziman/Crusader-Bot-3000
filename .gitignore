@@ -40,3 +40,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore Token.java
+src/main/java/com/kraziman/crusaderbot3000/Token.java
