@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "com.kraziman.crusader-bot-3000"
+group = "com.kraziman.crusaderbot3000"
 version = "1.0.0"
 
 repositories {
