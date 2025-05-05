@@ -30,7 +30,7 @@ public class SlashCommandListener extends ListenerAdapter {
                     `/ping` – Check if bot is online
                     `/members` – Show total server members
                     `/uptime` – Show bot uptime
-                    `/invite' - Show the server's invite link
+                    `/invite` - Show the server's invite link
                     `/help` – Show this message
                     """).queue();
                 break;
