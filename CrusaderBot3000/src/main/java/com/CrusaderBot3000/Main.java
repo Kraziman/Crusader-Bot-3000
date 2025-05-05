@@ -24,7 +24,7 @@ public class Main {
                 )
                 .setMemberCachePolicy(MemberCachePolicy.ALL)
                 .enableCache(CacheFlag.ONLINE_STATUS)
-                .addEventListeners(new CommandListener(), new SlashCommandListener())
+                .addEventListeners(new SlashCommandListener())
                 .build();
 
         jda.awaitReady(); // Wait for JDA to fully load
