@@ -55,7 +55,7 @@ cd discord-stats-bot
 Open `Main.java` and replace the placeholder with your actual Discord bot token:
 
 ```java
-String token = "your_bot_token_here"; // ← Replace this with your token
+String token = "DISCORD_TOKEN"; // ← Replace this with your token
 ```
 
 #### Step 2: Run the Bot
